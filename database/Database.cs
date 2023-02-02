@@ -1,9 +1,10 @@
 ﻿/*
- *
+ *         Ferit Yigit BALABAN, 2023
+ *         database :: Database.cs
  */
 
 namespace database;
 
-public class Class1
+public class Database
 {
 }
